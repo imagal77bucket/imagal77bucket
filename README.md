@@ -1,16 +1,16 @@
-# Einführung
-Hallo! Ich bin imagal77bucket, ein leidenschaftlicher Entwickler, der sich für innovative Technologien und Open Source-Projekte begeistert.
+# imagal77bucket
 
-# Fähigkeiten
-- **Webentwicklung:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Express, MongoDB
-- **Tools:** Git, Docker, VS Code
-- **Sprachen:** Deutsch, Englisch
+**Chủ đề:** devops
 
-# Projekte
-- **Projekt 1:** [Mein erstes Projekt](https://github.com/imagal77bucket/projekt1) - Eine Webanwendung zur Verwaltung von Aufgaben.
-- **Projekt 2:** [Mein zweites Projekt](https://github.com/imagal77bucket/projekt2) - Eine API zur Bereitstellung von Wetterdaten.
+## Giới thiệu
+Tập trung vào devops.
 
-# Kontakte
-- **E-Mail:** imagal77bucket@example.com
-- **LinkedIn:** [LinkedIn-Profil](https://www.linkedin.com/in/imagal77bucket)
+## Công nghệ
+- Python · Git · CI/CD
+- - devops
+- kubernetes
+- docker
+- terraform
+
+## Liên kết
+- Hồ sơ: https://github.com/imagal77bucket
