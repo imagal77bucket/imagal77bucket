@@ -1,19 +1,16 @@
-![security-best-practices development](https://media3.giphy.com/media/v1.Y2lkPTdiYzJhNDkwMXNlYXRlcmRlOGp5b3NnejE3eTlhYWVwajlza29ub25vdXJzYmJvcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/imRiPoKJB9R9m/giphy.gif)
-
 # Einführung
-Willkommen auf meinem Profil! Ich bin ein engagierter Softwareentwickler mit umfangreicher Erfahrung in Webtechnologien und Cloud-Entwicklung.
+Hallo! Ich bin imagal77bucket, ein leidenschaftlicher Entwickler, der sich für innovative Technologien und Open Source-Projekte begeistert.
 
 # Fähigkeiten
-- Programmiersprachen: JavaScript, Python, Java
-- Frameworks: React, Node.js, Django
-- Tools: Git, Docker, AWS
-- Agile Methoden: Scrum, Kanban
+- **Webentwicklung:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Express, MongoDB
+- **Tools:** Git, Docker, VS Code
+- **Sprachen:** Deutsch, Englisch
 
 # Projekte
-- **Webanwendung zur Aufgabenverwaltung**: Eine robuste App zur Verwaltung von Aufgaben mit React und Node.js.
-- **E-Commerce-Plattform**: Entwicklung einer skalierbaren Plattform mit Django und PostgreSQL.
+- **Projekt 1:** [Mein erstes Projekt](https://github.com/imagal77bucket/projekt1) - Eine Webanwendung zur Verwaltung von Aufgaben.
+- **Projekt 2:** [Mein zweites Projekt](https://github.com/imagal77bucket/projekt2) - Eine API zur Bereitstellung von Wetterdaten.
 
 # Kontakte
-- E-Mail: imagal77bucket@example.com  
-- LinkedIn: [Mein LinkedIn-Profil](https://www.linkedin.com/in/imagal77bucket)  
-- GitHub: [imagal77bucket](https://github.com/imagal77bucket)
+- **E-Mail:** imagal77bucket@example.com
+- **LinkedIn:** [LinkedIn-Profil](https://www.linkedin.com/in/imagal77bucket)
